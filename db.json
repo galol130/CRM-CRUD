@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Galo 2",
+      "email": "galo130@gmail.com",
+      "telefono": "666608199",
+      "empresa": "SAB Miller (CASAI)",
+      "id": 28
+    },
+    {
+      "nombre": "Jon",
+      "email": "Doe@jon.com",
+      "telefono": "666608199",
+      "empresa": "As",
+      "id": 29
+    }
+  ]
+}
